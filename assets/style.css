@@ -74,23 +74,21 @@ nav h1 {
     justify-content: center;
     flex-direction: column;
 }
-.winn-btn{
-   padding: 30px 0px 30px 0px;
+
+.winn-btn {
+    padding: 30px 0px 30px 0px;
     display: flex;
     align-items: center;
     justify-content: center;
-   
+
 
 }
-.winn-btn > p{
+
+.winn-btn p {
     background-color: greenyellow;
     padding: 20px;
     border-radius: 50px;
     font-size: 40px;
     font-weight: 600;
+    text-align: center ;
 }
-
-.msg-btn{
-    text-align: center;
-}
-
